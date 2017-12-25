@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="StationList">
+        <item>Vaishali</item>
+        <item>Kaushambi</item>
+        <item>Anand Vihar</item>
+        <item>Karkadooma</item>
+        <item>Preet Vihar</item>
+        <item>Nirman Vihar</item>
+        <item>Lakshmi Nagar</item>
+        <item>Noida City Centre</item>
+        <item>Golf Course</item>
+        <item>Botanical Garden</item>
+        <item>Noida Sect 18</item>
+        <item>Noida Sect 16</item>
+        <item>Noida Sect 15</item>
+        <item>New Ashok Nagar</item>
+        <item>Mayur Vihar Ext</item>
+        <item>Mayur Vihar-I</item>
+        <item>Akshardham</item>
+        <item>Yamuna Bank</item>
+        <item>Indraprasta</item>
+        <item>Pragati Maidan</item>
+        <item>Mandi House</item>
+        <item>Barakhamba</item>
+        <item>Rajiv Chowk</item>
+        <item>RK Ashram Marg</item>
+        <item>Jhandewalan</item>
+        <item>Karol Bagh</item>
+        <item>Rajendra Place</item>
+        <item>Patel Nagar</item>
+        <item>Shadi Pur</item>
+        <item>Kirti Nagar</item>
+        <item>Moti Nagar</item>
+        <item>Ramesh Nagar</item>
+        <item>Rajouri Garden</item>
+        <item>Tagore Garden</item>
+        <item>Subash Nagar</item>
+        <item>Tilak Nagar</item>
+        <item>Janak Puri East</item>
+        <item>Janak Puri West</item>
+        <item>Uttam Nagar East</item>
+        <item>Uttam Nagar West</item>
+        <item>Nawada</item>
+        <item>Dwaraka Mor</item>
+        <item>Dwarka</item>
+        <item>Dwarka Sector - 14</item>
+        <item>Dwarka Sector - 13</item>
+        <item>Dwarka Sector - 12</item>
+        <item>Dwarka Sector - 11</item>
+        <item>Dwarka Sector - 10</item>
+        <item>Dwarka Sector - 9</item>
+        <item>Dwarka Sector - 8</item>
+        <item>Dwarka Sector - 21</item>
+    </array>
+
+    <array name="StationBSSID">
+        <item>b6:5a:30:b4:f9:d3</item>
+    </array>
+</resources>
